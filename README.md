@@ -1,6 +1,6 @@
 # 📱 Smartphone ML Toolkit – Capstone Project
 
-A complete end-to-end data science project to predict smartphone prices and recommend similar phones, built using real-world data scraped from Smartprix. This project involves everything from web scraping to feature engineering, ML modeling, hyperparameter tuning, and building a Streamlit-based interactive web app.
+A complete end-to-end data science project to analyze smartphones, predict smartphone prices and recommend similar phones, built using real-world data scraped from Smartprix. This project involves everything from web scraping to feature engineering, ML modeling, hyperparameter tuning, and building a Streamlit-based interactive web app.
 
 🔗 Live Demo: (https://smartphone-price-and-reco-web.streamlit.app/)
 
